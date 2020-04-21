@@ -1,5 +1,5 @@
 # PAST
-Protein Alignment Simulations based on phylogenetic Trees   
+Protein Alignments Simulation based on phylogenetic Trees   
   -h, --help            show this help message and exit  
     
 HOW TO RUN (if you already have multiple protein alignments without gaps and corresponding distance matrices):  
