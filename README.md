@@ -1,4 +1,3 @@
-# Proj2020
 # PARS
 Tree&Distance_matrices to random protein alignment
 arguments:
