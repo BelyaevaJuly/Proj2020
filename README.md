@@ -1,8 +1,8 @@
 # PAST
-Protein Alignment Simulations based on phylogenetic Trees
-Tree&Distance_matrices to random protein alignment
-arguments:
-  -h, --help            show this help message and exit\n
+Protein Alignment Simulations based on phylogenetic Trees  
+Tree&Distance_matrices to random protein alignment  
+arguments:  
+  -h, --help            show this help message and exit  
   -d DATABASE, --database DATABASE
                         Input dir with alignment database
   -w WORKING, --working WORKING
